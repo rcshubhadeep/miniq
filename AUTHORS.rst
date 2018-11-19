@@ -2,4 +2,4 @@
 Contributors
 ============
 
-* Shubhadeep Roychowdhury <shubhadeep@ubble.ai>
+* Shubhadeep Roychowdhury <shubhadeeproychowdhury@gmail.com>
