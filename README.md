@@ -1,5 +1,5 @@
 # miniq
-An attempt to create a small and extendable Quantum Computing simulator using Python and CuPy
+An attempt to create a small and extendable Quantum Computing simulator using Python and CuPy (it is awesome)
 
 ##Description
 
